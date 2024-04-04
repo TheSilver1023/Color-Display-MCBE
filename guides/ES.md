@@ -16,6 +16,9 @@ Ahora, para mostrar los demás colores, simplemente deben ajustar la intensidad 
 
 ![tutorial](assets/tutorial.gif)
 
+> [!NOTE]
+> Para remover la pantalla simplemente vuelven a poner el comparador, y al darle click derecho con la brújula, saldrá el mensaje `Block removed at...`
+
 ---
 
 - ## Editar las imágenes
