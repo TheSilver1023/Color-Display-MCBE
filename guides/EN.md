@@ -12,6 +12,10 @@ Now, to display the other colors, you just need to adjust the signal strength.
 
 ![tutorial](assets/tutorial.gif)
 
+
+> [!NOTE]
+> To remove the display, place the comparator back and right-click with the compass. If the message `Block removed at...` appears in the chat, it means it has been removed successfully.
+
 ---
 
 - ## Editing assets
