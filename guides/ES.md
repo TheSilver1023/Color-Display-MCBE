@@ -5,6 +5,8 @@
 - ## ¿Para que sirve?
 Permite realizar pantallas a color mediante la intensidad de las gotas de redstone. Por lo que tienes 16 posibilidades. Además de que se pueden editar las imágenes de cada intensidad para mostrar lo que deseas!
 
+![displays](assets/image.jpg)
+
 ---
 
 - ## ¿Cómo funciona?
@@ -12,10 +14,15 @@ Simplemente colocan un comparador en el lugar donde quieren la pantalla, le dan 
 
 Ahora, para mostrar los demás colores, simplemente deben ajustar la intensidad de la redstone.
 
+![tutorial](assets/tutorial.gif)
+
 ---
 
 - ## Editar las imágenes
 Si desean editar las imágenes, pueden ir al [Resource Pack](https://github.com/TheSilver1023/Color-Display/tree/main/Color%20Display/Resource%20Pack) y en la carpeta `particles` encontrarán la imágen `redstone_assets.jpg`
+
+![tutorial](assets/image2.jpg)
+
 > [!IMPORTANT]
 > Deben tratar de que la imágen sea de 16*256 px para evitar fallos.
 
@@ -40,7 +47,7 @@ Para poder editar el tamaño, van a dirigirse a la carpeta de [Resource Pack](ht
 ---
 
 - ## Descarga
-Para descargar el Addon, simplemente haga click en [DESCARGAR](https://github.com/TheSilver1023/Color-Display/files/14860333/Color.Display.zip), y al extraer el .zip, tendrás el .mcaddon listo.
+Para descargar el Addon, simplemente haga click en [DESCARGAR](https://github.com/TheSilver1023/Color-Display-MCBE/releases/download/v1.0/Color.Display.mcaddon), y al extraer el .zip, tendrás el .mcaddon listo.
 
 ---
 > [!TIP]
