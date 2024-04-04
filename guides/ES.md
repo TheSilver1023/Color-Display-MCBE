@@ -49,4 +49,4 @@ Para poder editar el tamaño, van a dirigirse a la carpeta de [Resource Pack](ht
 ---
 
 - ## Descarga
-Para descargar el Addon, simplemente haga click en [DESCARGAR](https://github.com/TheSilver1023/Color-Display-MCBE/releases/download/v1.0/Color.Display.mcaddon), y al extraer el .zip, tendrás el .mcaddon listo.
+Para descargar el Addon, simplemente haga click en [DESCARGAR](https://github.com/TheSilver1023/Color-Display-MCBE/releases/download/v1.0/Color.Display.mcaddon).
