@@ -22,7 +22,7 @@ Si desean editar las imágenes, pueden ir al [Resource Pack](https://github.com/
 ---
 
 - ## Editar tamaño de las pantallas
-Para poder editar el tamaño, van a dirigirse a la carpeta de [Resource Pack](https://github.com/TheSilver1023/Color-Display/tree/main/Color%20Display/Resource%20Pack) y en el archivo `redstone.json` van a buscar la clave `minecraft:particle_appearance_billboard` y van a poder editar el `size`:
+Para poder editar el tamaño, van a dirigirse a la carpeta de [Resource Pack](https://github.com/TheSilver1023/Color-Display/tree/main/Color%20Display/Resource%20Pack) en la carpeta `particles` y en el archivo `redstone.json` van a buscar la clave `minecraft:particle_appearance_billboard` y van a poder editar el `size`:
 ```json
 "minecraft:particle_appearance_billboard": {
     "size": [ 1.5, 1.5],   
