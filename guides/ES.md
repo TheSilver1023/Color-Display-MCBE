@@ -35,7 +35,7 @@ Para poder editar el tamaño, van a dirigirse a la carpeta de [Resource Pack](ht
      }
 ```
 > [!NOTE]
-> Un bloque equivale a "0.5", es decir, que si quieres que mida 2 bloques de ancho y largo, sería igual a `1`
+> Un bloque equivale a "0.5". Ejemplo, si quieres que mida 2 bloques de ancho y largo, sería igual a `1`
 
 ---
 
